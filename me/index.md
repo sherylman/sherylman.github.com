@@ -1,11 +1,5 @@
 ---
-layout: about
+layout: CV
 ---
 
-Hello, my name is Micah Cowell. I am a self proclaimed web developer who likes the internet, hip hop, and fancy yo-yos.
-
-# What do you do?
-I make website and stuff. All the code I write is on my [Github](https://github.com/getmicah).
-
-# What programming languages do you use?
-When making websites I like using Javascript and Sass. I also like Python and making linux scripts.
+[CV](https://github.com/sherylman/sherylman.github.com/blob/master/me/CV-LIU20160905.pdf) | [简历](https://github.com/sherylman/sherylman.github.com/blob/master/me/%E5%88%98%E6%A2%A6%E6%81%92%E7%AE%80%E5%8E%8620160918.pdf) 
