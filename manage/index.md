@@ -1,5 +1,5 @@
 ---
-layout: 现代管理基础
+layout: about
 ---
 
 ### [第1讲](https://github.com/sherylman/sherylman.github.com/raw/master/manage/%E7%AC%AC1%E8%AE%B2%20%E5%AF%BC%E8%AE%BA.pdf)
