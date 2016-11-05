@@ -27,5 +27,6 @@ title: 现代管理基础
 
 ## [2016-2017案例分析示例2 爱奇艺的崛起](https://github.com/sherylman/sherylman.github.com/raw/master/manage/2016-2017%E6%A1%88%E4%BE%8B%E5%88%86%E6%9E%90%E7%A4%BA%E4%BE%8B2%20%E7%88%B1%E5%A5%87%E8%89%BA%E7%9A%84%E5%B4%9B%E8%B5%B7.pdf)
 
+# [管理经典书目](http://sherylman.com/blog/%E7%AE%A1%E7%90%86%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%9B%AE)
 
 # 期末考核说明及课程论文模板（待发布）
