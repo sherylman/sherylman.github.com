@@ -12,7 +12,7 @@ title: 现代管理基础
 
 * [第3讲续](https://github.com/sherylman/sherylman.github.com/raw/master/manage/%E7%AC%AC3%E8%AE%B2%E7%BB%AD%20%E4%B8%AD%E5%9B%BD%E5%8F%A4%E4%BB%A3%E7%AE%A1%E7%90%86%E6%80%9D%E6%83%B3.pdf)
 
-* 第4讲
+* [第4讲](https://github.com/sherylman/sherylman.github.com/raw/master/manage/%E7%AC%AC4%E8%AE%B2%20%E7%AE%A1%E7%90%86%E4%B8%8E%E7%8E%AF%E5%A2%83.pdf)
 
 * 第5讲
 
