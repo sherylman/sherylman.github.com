@@ -4,10 +4,9 @@ title: dream it possible
 ---
 
 
-## Dream It Possible (Huawei song)：<iframe height=498 width=510 src="http://v.yinyuetai.com/video/2716267" frameborder=0 allowfullscreen></iframe>
+## [Dream It Possible (Huawei song MV)](http://v.yinyuetai.com/video/2716267)
 
-
-
+## [Dream It Possible (Huawei song music)](http://music.163.com/#/m/song?id=38592976&userid=280801594)
 
 *	I will run, I will climb, I will soar
 *	I'm undefeated.. oo
