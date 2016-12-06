@@ -34,4 +34,4 @@ title: 现代管理基础
 ## [管理经典书目](http://sherylman.com/blog/%E7%AE%A1%E7%90%86%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%9B%AE)
 
 
-## 期末考核说明及课程论文模板（待发布）
+## [期末考核说明及课程论文模板](https://pan.baidu.com/s/1sldDJsT) （提取码：见微信群公告）
