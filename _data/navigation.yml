@@ -2,9 +2,9 @@
   url: /me
 
 - title: Courses
-  url: /manage
   url: /business
-
+  url: /manage
+  
 - title: github
   url: https://github.com/sherylman
 
