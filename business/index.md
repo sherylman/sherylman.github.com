@@ -6,7 +6,7 @@ title: 商务沟通基础
 ## 课程讲义
 * [第1讲（含课程考核说明）](http://pan.baidu.com/s/1c2b0U2G)
 
-* 第2讲
+* [第2讲](http://pan.baidu.com/s/1c2quvK0)
 
 * 第3讲
 
