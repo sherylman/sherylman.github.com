@@ -8,9 +8,9 @@ title: 商务沟通基础
 
 * [第2讲](http://pan.baidu.com/s/1c2quvK0)
 
-* 第3讲
+* [第3讲](http://pan.baidu.com/s/1slprcJj)
 
-* 第4讲
+* [第4讲](http://pan.baidu.com/s/1gfaIsXd)
 
 * 第5讲
 
