@@ -10,7 +10,7 @@ title: 商务沟通基础
 
 * [第3讲](http://pan.baidu.com/s/1slprcJj)
 
-* [第4讲](http://pan.baidu.com/s/1jIC5WIq) [辅助材料](http://pan.baidu.com/s/1bpN94eV)
+* [第4讲](http://pan.baidu.com/s/1jIC5WIq) | [辅助材料](http://pan.baidu.com/s/1bpN94eV)
 
 * 第5讲
 
