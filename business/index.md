@@ -26,4 +26,4 @@ title: 商务沟通基础
 ## [读书笔记说明](http://pan.baidu.com/s/1eSbzjsm)
 ## [管理经典书目](http://sherylman.com/blog/%E7%AE%A1%E7%90%86%E7%BB%8F%E5%85%B8%E4%B9%A6%E7%9B%AE)
 
-## 期末考核说明及课程论文模板
+## [期末考核说明及课程论文模板](http://pan.baidu.com/s/1jI1c1d8) 密码: p4vj
