@@ -7,8 +7,7 @@ title: 北美导航
 
 金融理财篇
 -----
-[Discover信用卡][1]　|　[美国运通信用卡][2]　|　Bank of America
-Chase freedom　｜　[Disney® Visa® Card][3]
+[Discover信用卡][1]　|　[美国运通信用卡][2]　|　Bank of America | Chase freedom　｜　[Disney® Visa® Card][3]
 
 
   [1]: https://refer.discover.com/s/32o7u
