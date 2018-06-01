@@ -17,6 +17,6 @@ title: 北美导航
 
   [1]: https://refer.discover.com/s/32o7u
   [2]: http://refer.amex.us/MENGHLOXux?XLINK=MYCP
-  [3]: https://www.referyourchasecard.com/m/2/6L5/FNS2/1548945090
-  [4]: https://www.referyourchasecard.com/m/200/6L5/FQXR/1548913739
+  [3]: https://www.referyourchasecard.com/2/UDUG3W8CER
+  [4]: https://www.referyourchasecard.com/200/Y4KESEE38Z
   [5]: http://refer.amex.us/MENGHLcPyY?XLINK=MYCP
