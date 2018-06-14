@@ -26,7 +26,7 @@ title: 北美导航
 * 根据个人经验，申请难度如下：Discover < AmEx Blue Cash Everyday < Bank of America cash < AmEx Gold Delta SkyMiles = AmEx Hilton  
 * Chase和BOA比较看重客户关系，如果有chase和BOA的checking account，那么，信用记录历史（从第一张信用卡开卡开始算）达到3-4个月就可以尝试；如果没有chase的checking account，要申请到chase信用卡比较难，个人感觉需要一年以上，且chase要保证2年内不超过5张任意银行信用卡。  
 * 推荐申请时间节点如下，大家可以根据具体情况和需求申请相应的信用卡。  
-
+  
   |信用历史|适合类型|其他要求|返现类型|价值|
   | :-: | :-: | :-: | :-: | :-: |
   |0个月|Discover|无|Statement(抵账单，类似Cash)|50美元|
