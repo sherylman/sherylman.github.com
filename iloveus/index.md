@@ -29,7 +29,7 @@ title: 北美导航
 
   信用历史|适合申请信用卡类型|其他要求|返现类型|价值
    :-: | :-: | :-: | :-: | :-:
-  0个月|Discover|无|credit statement(直接抵消费账单，类似于Cash，下同)|50美元
+  0个月|Discover|无|credit statement(直接抵账单，类似Cash)|50美元
   3个月|AmEx Blue Cash Everyday (BCE)|无|credit statement|200美元
   3个月|Bank of America (BOA)|BOA checking|cash|150美元
   6个月|Chase Dreedom|Chase checking|cash|150美元
