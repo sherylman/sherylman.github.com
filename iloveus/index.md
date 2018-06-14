@@ -11,7 +11,7 @@ title: 北美导航
 ***现金返现类***  
 **Discover信用卡**: 免年费。开卡消费任意金额，返现50美元，第一年的所有返现加倍。[申请链接][1]  
 **AmEx Blue Cash Everyday (BCE)**: 免年费。开卡消费1000，返现200。[申请链接][2]   
-**Bank of America**: 免年费。开卡消费500，返现150，没有推荐链接。   
+**Bank of America (BOA)**: 免年费。开卡消费500，返现150，没有推荐链接。   
 **Chase freedom**: 免年费。开卡消费500，返现150。[申请链接][3]   
 **Chase Disney® Visa® Card**: 免年费。开卡消费500，返现200。[申请链接][4]   
   
@@ -20,6 +20,19 @@ title: 北美导航
   
 ***酒店积分类***  
 **AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现75000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
+
+***注：***
+* 信用卡申请基本上都要有SSN，没有SSN的朋友，请先申请SSN之后再考虑信用卡申请。  
+* 根据个人经验，申请难度如下：Discover < AmEx Blue Cash Everyday < Bank of America cash < AmEx Gold Delta SkyMiles = AmEx Hilton  
+* Chase和BOA比较看重客户关系，如果有chase和BOA的checking account，那么，信用记录历史（从第一张信用卡开卡开始算）达到3-4个月就可以尝试；如果没有chase的checking account，要申请到chase信用卡比较难，个人感觉需要一年以上，且chase要保证2年内不超过5张任意银行信用卡。  
+* 推荐申请时间节点如下，大家可以根据具体情况和需求申请相应的信用卡。  
+
+信用历史 | 适合申请信用卡类型 | 其他要求
+0个月 | Discover | 无
+3个月 | AmEx Blue Cash Everyday (BCE) | 无
+3个月 | Bank of America (BOA) | BOA checking
+6个月 | CHasee freedom 和 Disney | chase checking
+7个月 | Amex delta 和 Hilton | 无
 
 
 ---
