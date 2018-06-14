@@ -29,11 +29,11 @@ title: 北美导航
 
 信用历史|适合申请信用卡类型|其他要求  
 -|-|-
-0个月|Discover|无  
-3个月|AmEx Blue Cash Everyday (BCE)|无  
-3个月|Bank of America (BOA)|BOA checking  
-6个月|CHasee freedom 和 Disney|chase checking  
-7个月|Amex delta 和 Hilton|无  
+0个月|Discover|无
+3个月|AmEx Blue Cash Everyday (BCE)|无
+3个月|Bank of America (BOA)|BOA checking
+6个月|CHasee freedom 和 Disney|chase checking
+7个月|Amex delta 和 Hilton|无
 
 
 ---
