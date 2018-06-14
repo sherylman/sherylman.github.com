@@ -28,7 +28,7 @@ title: 北美导航
 * 推荐申请时间节点如下，大家可以根据具体情况和需求申请相应的信用卡。  
 
 信用历史|适合申请信用卡类型|其他要求  
--|-|-
+ :-: | :-: | :-:
 0个月|Discover|无
 3个月|AmEx Blue Cash Everyday (BCE)|无
 3个月|Bank of America (BOA)|BOA checking
