@@ -27,15 +27,15 @@ title: 北美导航
 * Chase和BOA比较看重客户关系，如果有chase和BOA的checking account，那么，信用记录历史（从第一张信用卡开卡开始算）达到3-4个月就可以尝试；如果没有chase的checking account，要申请到chase信用卡比较难，个人感觉需要一年以上，且chase要保证2年内不超过5张任意银行信用卡。  
 * 推荐申请时间节点如下，大家可以根据具体情况和需求申请相应的信用卡。  
 
-  信用历史|适合申请信用卡类型|其他要求|返现类型|价值
-   :-: | :-: | :-: | :-: | :-:
-  0个月|Discover|无|Statement(直接抵账单，类似Cash)|50美元
-  3个月|AmEx Blue Cash Everyday (BCE)|无|Statement|200美元
-  3个月|Bank of America (BOA)|BOA checking|Cash|150美元
-  6个月|Chase Freedom|Chase checking|Cash|150美元
-   6个月|Chase Disney|Chase checking|Statement|200美元
-  7个月|Amex Delta|无|航空积分|40000点
-  7个月|Amex Hilton|无|酒店积分|75000点
+  |信用历史|适合申请信用卡类型|其他要求|返现类型|价值|
+  | :-: | :-: | :-: | :-: | :-: |
+  |0个月|Discover|无|Statement(直接抵账单，类似Cash)|50美元|
+  |3个月|AmEx Blue Cash Everyday (BCE)|无|Statement|200美元|
+  |3个月|Bank of America (BOA)|BOA checking|Cash|150美元|
+  |6个月|Chase Freedom|Chase checking|Cash|150美元|
+  |6个月|Chase Disney|Chase checking|Statement|200美元|
+  |7个月|Amex Delta|无|航空积分|40000点|
+  |7个月|Amex Hilton|无|酒店积分|75000点|
 
 
 ---
