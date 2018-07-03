@@ -16,10 +16,10 @@ title: 北美导航
 **Chase Disney® Visa® Card**: 免年费。开卡消费500，返现200。[申请链接][4]   
   
 ***航空里程类***  
-**AmEx Gold Delta SkyMiles**: 首年免年费。开卡消费1000，返现40K的delta里程点数（可兑换美东美西往返机票）+50美元的delta消费。[申请链接][5]   
+**AmEx Gold Delta SkyMiles**: 首年免年费。开卡消费1000，返现40K的delta里程点数（可兑换美东美西往返机票）+50美元的delta 消费奖励（可买delta gift card用于以后买机票，也可直接买机票）。[申请链接][5]   
   
 ***酒店积分类***  
-**AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现75000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
+**AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现65000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
 
 ***注：***
 * 信用卡申请基本上都要有SSN，没有SSN的朋友，请先申请SSN之后再考虑信用卡申请。  
