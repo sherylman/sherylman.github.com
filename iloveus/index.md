@@ -53,7 +53,7 @@ title: 北美导航
   [2]: http://refer.amex.us/MENGHLOXux?XLINK=MYCP
   [3]: https://www.referyourchasecard.com/2/UDUG3W8CER
   [4]: https://www.referyourchasecard.com/200/Y4KESEE38Z
-  [5]: http://refer.amex.us/MENGHLcPyY?XLINK=MYCP
+  [5]: http://refer.amex.us/MENGHL0YVF?XLINK=MYCP
   [6]: http://refer.amex.us/MENGHLUEcK?XLINK=MYCP
   [7]: https://www.ebates.com/r/LIUMEN56?eeid=28187
   [8]: https://www.topcashback.com/ref/member1111691236436
