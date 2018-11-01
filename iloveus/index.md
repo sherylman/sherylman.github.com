@@ -20,7 +20,7 @@ title: 北美导航
 [申请链接2][12]
   
 ***酒店积分类***  
-**AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现65000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
+**AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现100000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
 
 ***MR点数***
 **American Express Gold Card**：50k 开卡奖励：开卡3个月内消费满 $2000 可得 50,000 Membership Rewards (MR) 点数。同时开卡前3个月餐馆消费可以获得20%返现，最高$100返现。[申请链接][10]
@@ -67,7 +67,7 @@ title: 北美导航
   [3]: https://www.referyourchasecard.com/2/UDUG3W8CER
   [4]: https://www.referyourchasecard.com/200/Y4KESEE38Z
   [5]: http://refer.amex.us/MENGHL0YVF?XLINK=MYCP
-  [6]: http://refer.amex.us/MENGHLUEcK?XLINK=MYCP
+  [6]: http://refer.amex.us/MENGHLTXbi?xl=cp33
   [7]: https://www.ebates.com/r/LIUMEN56?eeid=28187
   [8]: https://www.topcashback.com/ref/member1111691236436
   [9]: http://refer.amex.us/MENGHLjCMD?XLINK=MYCP
