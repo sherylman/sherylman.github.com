@@ -16,10 +16,23 @@ title: 北美导航
 **Chase Disney® Visa® Card**: 免年费。开卡消费500，返现200。[申请链接][4]   
   
 ***航空里程类***  
-**AmEx Gold Delta SkyMiles**: 首年免年费。开卡消费3000，返现60K的delta里程点数（**史高奖励**，可兑换美东美西往返机票,也可兑换中美往返机票）。[申请链接][5]   
+**AmEx Gold Delta SkyMiles**: 首年免年费。开卡消费3000，返现60K的delta里程点数（**史高奖励**，可兑换美东美西往返机票,也可兑换中美往返机票）。[申请链接1][5]
+[申请链接2][12]
   
 ***酒店积分类***  
 **AmEx Hilton 信用卡**: 免年费。开卡消费1000，返现65000 Hilton Hornors Points（可兑换多晚希尔顿酒店住宿）。[申请链接][6]  
+
+***MR点数***
+**American Express Gold Card**：50k 开卡奖励：开卡3个月内消费满 $2000 可得 50,000 Membership Rewards (MR) 点数。同时开卡前3个月餐馆消费可以获得20%返现，最高$100返现。[申请链接][10]
+**The AmEx EveryDay Credit Card (ED)**:最高可能刷出25k开卡奖励/$2,000消费要求。注意一定要用隐身模式或者清空缓存的方式打开才看得见 25k offer，如果只能看到 10k 或 15k，可以多试几次。目前有的地理位置怎么刷也刷不出来，有的地理位置随便打开就有大offer，所以刷不出来的话可以考虑使用VPN.[申请链接][11]
+
+
+
+***终 极 大 羊 腿***
+**Platinum Card from American Express for Ameriprise Financial 美国运通白金卡**
+**首年免年费**。开卡送PP卡，可免费享受全球（含中国）各大机场贵宾厅，每自然年送200刀航空报销（累计可得400刀航空报销），每年$200 Uber credit，$100 Saks credit，送Hilton、SPG金卡会籍。作为年抛卡（收年费前销卡），能享受那么多福利，不愧为终极大羊腿。
+这张卡不能refer，可以直接在官网申请。但这张卡能推荐申请多种常规AmEx信用卡。[推荐链接][9]
+
 
 ***注：***
 * 信用卡申请基本上都要有SSN，没有SSN的朋友，请先申请SSN之后再考虑信用卡申请。  
@@ -57,4 +70,7 @@ title: 北美导航
   [6]: http://refer.amex.us/MENGHLUEcK?XLINK=MYCP
   [7]: https://www.ebates.com/r/LIUMEN56?eeid=28187
   [8]: https://www.topcashback.com/ref/member1111691236436
-
+  [9]: http://refer.amex.us/MENGHLjCMD?XLINK=MYCP
+  [10]: http://refer.amex.us/MENGHLRlsK?XLINK=MYCP
+  [11]: http://refer.amex.us/MENGHLyWVF?XLINK=MYCP
+  [12]: http://refer.amex.us/MENGHLbXSo?xl=cp33
